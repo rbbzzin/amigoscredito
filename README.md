@@ -1,2 +1,0 @@
-# amigoscredito
-resolver problemas
